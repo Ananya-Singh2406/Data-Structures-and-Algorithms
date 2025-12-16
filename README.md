@@ -31,5 +31,5 @@ My solutions are grouped into the following high-value categories, ensuring comp
 To clone the repository and begin exploring the Python solutions locally, use the following commands:
 
 ```bash
-git clone [Your Repository URL Here]
+git clone [(https://github.com/Ananya-Singh2406/Data-Structures-and-Algorithms.git)]
 cd your-repository-name
